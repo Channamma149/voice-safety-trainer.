@@ -1,0 +1,6 @@
+out.wav
+*.onnx
+*.onnx.json
+voices/
+whisper-env/
+__pycache__/
